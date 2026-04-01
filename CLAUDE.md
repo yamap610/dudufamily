@@ -38,8 +38,8 @@
 
 | App 名稱 | 用途 | URL | 部署位置 | 說明 |
 |---------|------|-----|--------|------|
-| **首頁儀表板** | 家庭天氣、待辦、紀念日、購物單 | `yui0151.github.io/secretary/` | yui0151 repo | 家庭日常核心樞紐，整合多功能 |
-| Secretary（秘書） | 待辦事項、日程、家務管理 | `yui0151.github.io/secretary/` | yui0151 repo | 同上儀表板 |
+| **首頁儀表板** | 家庭天氣、待辦、紀念日、購物單 | `yui0151.github.io/home/` | yui0151 repo | 家庭日常核心樞紐，整合多功能 |
+| Secretary（秘書） | 待辦事項、日程、家務管理 | `yui0151.github.io/secretary/` | yui0151 repo | 開發中 |
 | Inventory（家庭清單） | 家庭物品清點、清單管理 | `yui0151.github.io/inventory/` | yui0151 repo | 開發中 |
 | Wardrobe（衣櫥） | 衣物管理與搭配 | `yui0151.github.io/wardrobe/` | yui0151 repo | 開發中 |
 | Pocket List（口袋清單） | 便簽、快速記錄 | `yamap610.github.io/pocket-list/` | yamap610 repo | 開發中 |
