@@ -1,5 +1,4 @@
-# Claude 修改任務清單 (精簡版)
-請針對以下系統進行 Bug 修復與功能優化，視覺維持日系手繪簡約風格與奶茶色調。
+# 修改任務清單 (精簡版)
 
 ### M.Y 小百科
 **修改檔案**：`https://raw.githubusercontent.com/yamap610/mywiki/refs/heads/main/index.html`
